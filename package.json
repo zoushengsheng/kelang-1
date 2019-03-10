@@ -1,5 +1,5 @@
 {
-  "name": "vote",
+  "name": "Vote",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "vue": "^2.6.6"
+    "axios": "^0.18.0",
+    "element-ui": "^2.6.1",
+    "pdfmake": "^0.1.53",
+    "signature_pad": "^3.0.0-beta.3",
+    "vue": "^2.6.6",
+    "vue-router": "^3.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
