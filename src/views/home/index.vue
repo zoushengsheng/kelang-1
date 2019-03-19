@@ -5,14 +5,15 @@
                 <img src="../../assets/logo.png" />
                 <el-button icon="el-icon-more" v-if="isMobile" @click="showMenu = !showMenu"></el-button>
                 <el-collapse-transition>
-                    <el-menu :mode="isMobile ? 'vertical' : 'horizontal'" v-show="showMenu" router :default-active="activeIndex" @select="showMenu = !showMenu">
+                    <el-menu :mode="isMobile ? 'vertical' : 'horizontal'" v-show="showMenu" router :default-active="activeIndex" @select="isMobile ? showMenu = !showMenu : ''">
                         <el-menu-item index="/home/">首页</el-menu-item>
                         <el-menu-item index="/home/profile?id=company">公司介绍</el-menu-item>
                         <el-submenu index="3">
                             <template slot="title">项目介绍</template>
-                            <el-menu-item index="/home/profile?id=government">政府项目申报</el-menu-item>
-                            <el-menu-item index="/home/profile?id=medical">医疗器械法规咨询与临床咨询</el-menu-item>
-                            <el-menu-item index="/home/profile?id=research">科研转化平台</el-menu-item>
+                            <el-menu-item index="/home/profile?id=scientific">科研转化服务</el-menu-item>
+                            <el-menu-item index="/home/profile?id=project">项目申报服务</el-menu-item>
+                            <el-menu-item index="/home/profile?id=medical">医疗器械注册体系咨询服务</el-menu-item>
+                            <el-menu-item index="/home/profile?id=consultation">临床试验咨询服务</el-menu-item>
                         </el-submenu>
                         <el-menu-item index="/home/profile?id=teamResources">团队资源</el-menu-item>
                         <el-menu-item index="/home/profile?id=contactUs">联系我们</el-menu-item>
@@ -39,7 +40,6 @@ export default {
     mounted () {
         let id = this.$route.query.id || '';
         this.activeIndex = id ? `/home/profile?id=${id}` : '/home/';
-        document.getElementsByClassName('el-main')[0].style.height = `${600}px`;
         this.showMenu = !navigator.userAgent.match(/Android|iPhone|iPad|iPod/i);
     },
     computed: {
