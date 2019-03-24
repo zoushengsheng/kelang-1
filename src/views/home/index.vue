@@ -13,7 +13,7 @@
                             <el-menu-item index="/home/profile?id=scientific">科研转化服务</el-menu-item>
                             <el-menu-item index="/home/profile?id=project">项目申报服务</el-menu-item>
                             <el-menu-item index="/home/profile?id=medical">医疗器械注册体系咨询服务</el-menu-item>
-                            <el-menu-item index="/home/profile?id=consultation">临床试验咨询服务</el-menu-item>
+                            <el-menu-item index="/home/profile?id=consultation">医疗器械临床试验咨询服务</el-menu-item>
                         </el-submenu>
                         <el-menu-item index="/home/profile?id=teamResources">团队资源</el-menu-item>
                         <el-menu-item index="/home/profile?id=contactUs">联系我们</el-menu-item>
@@ -24,9 +24,11 @@
         <el-main>
             <router-view></router-view>
         </el-main>
-        <el-footer height="auto">
-            <p>科琅医疗<br>苏ICP备15008XXX号</p>
-        </el-footer>
+        <transition name="el-zoom-in-bottom">
+            <el-footer height="auto" v-show="showFooter">
+                <p>科琅医疗<br>苏ICP备15008XXX号</p>
+            </el-footer>
+        </transition>
     </el-container>
 </template>
 <script>
@@ -35,12 +37,14 @@ export default {
         return {
             activeIndex: null,
             showMenu: null,
+            showFooter: false
         }
     },
     mounted () {
         let id = this.$route.query.id || '';
         this.activeIndex = id ? `/home/profile?id=${id}` : '/home/';
         this.showMenu = !navigator.userAgent.match(/Android|iPhone|iPad|iPod/i);
+        this.showFooter = true;
     },
     computed: {
         isMobile () {

@@ -10,7 +10,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "element-ui": "^2.6.1",
-    "pdfmake": "^0.1.53",
     "signature_pad": "^3.0.0-beta.3",
     "vue": "^2.6.6",
     "vue-router": "^3.0.2"

@@ -22,9 +22,6 @@
     }, {
         "title": "项目申报服务流程",
         "image": ["images/project_2.png"]
-    }, {
-        "title": "合作客户与医院",
-        "image": ["images/project_3.png", "images/project_4.png"]
     }],
     "medical": [{
         "title": "医疗器械注册体系咨询服务",
@@ -32,25 +29,29 @@
         "content": "<p>随着中国医疗器械市场的快速崛起，国家食品药品监督管理总局对医疗器械的监管也逐步与世界接轨，趋于严格。《医疗器械监督管理条例》开启了医疗器械行业监管的新纪元。</p><p>广州科琅医疗科技有限公司专注于医疗器械领域的咨询及服务。我们可提供医疗器械产品注册申报、GMP/GSP体系辅导、预分析报告、分类界定、创新医疗器械申报、法规培训等技术咨询服务。</p>"
     }, {
         "title": "I类/II类/III类医疗器械注册辅导",
-        "image": ["images/medical_2.png"]
+        "multiContent": "<div style='height: 300px;'><div class='el-steps el-steps--vertical'><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>1</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>产品技术要求编制</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>2</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>协助企业进行产品检测</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>3</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>综述资料、研究资料、生产制造信息、风险报告、说明书标签样稿等辅导编制</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>4</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>省局/国家局递交资料</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>5</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>省局/国家局审评沟通&发补的协调与处理→获得注册证</div><div class='el-step__description is-process'></div></div></div></div></div>"
     }, {
         "title": "GMP/GSP体系辅导",
-        "image": ["images/medical_3.png"]
+        "multiContent": "<div style='height: 300px;'><div class='el-steps el-steps--vertical'><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>1</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>洁净厂房分区或生产车间布局的策划</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>2</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>质量手册、体系文件的辅导编制</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>3</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>体系试运行的辅导</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>4</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>体系运行的整改建议</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>5</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>检查前的体系运行</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>6</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>体系相关法规与实操的培训</div><div class='el-step__description is-process'></div></div></div></div></div>"
     }, {
         "title": "预分析报告",
-        "image": ["images/medical_4.png"]
+        "multiContent": "<div style='height: 300px;'><div class='el-steps el-steps--vertical'><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>1</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>类别判定，临床豁免，检测需求分析等</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>2</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>已上市近似产品概括分析</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>3</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>注册过程中涉及的法规、行业标准、指导原则</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>4</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>注册风险评估，缺口分析（如需要）</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>5</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>注册（备案）项目进程解析</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>6</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>注册（备案）所需资料</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>7</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>注册（备案）项目预估费用及周期</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>8</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>合规策略总结</div><div class='el-step__description'style='color:#F56C6C;font-size:16px;line-height:24px;font-weight:600;'>结合不同的客户需求，我们将灵活分析，提供专业、有针对性的分析报告。</div></div></div></div></div>"
     }, {
         "title": "医疗器械分类界定",
-        "image": ["images/medical_5.png"]
+        "multiContent": "<div style='height: 300px;'><div class='el-steps el-steps--vertical'><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-finish'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>1</div></div></div><div class='el-step__main'><div class='el-step__title is-finish' style='font-weight: 600;'>为客户新研制产品，或国外引进的产品进行管理类别的界定</div><div class='el-step__description is-finish'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>2</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>产品技术要求编制</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>3</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>整理产品介绍</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>4</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>境外上市资料整理</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>5</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>类似产品信息检索</div><div class='el-step__description is-process'></div></div></div><div class='el-step is-vertical'style='flex-basis: 50%;'><div class='el-step__head is-process'><div class='el-step__line'style='margin-right: 0px;'><i class='el-step__line-inner'style='transition-delay: 0ms; border-width: 0px; height: 0%;'></i></div><div class='el-step__icon is-text'><div class='el-step__icon-inner'>6</div></div></div><div class='el-step__main'><div class='el-step__title is-process'>中检院网络申报与跟踪</div><div class='el-step__description is-process'></div></div></div></div></div>"
     }, {
         "title": "医疗器械创新申报",
         "image": ["images/medical_6.png"]
     }], 
     "consultation": [{
-        "title": "临床试验咨询服务",
-        "image": ["images/consultation_1.jpg"],
+        "title": "医疗器械临床试验咨询服务",
+        "image": ["images/consultation_1.jpg"]
+    },
+    {
+        "title": "业务介绍-临床咨询服务·优势",
         "content": "<p>科琅法规部临床中心：专注于医疗器械临床研究领域，总部位于广东·广州，在苏州、北京、杭州、深圳均设有办事处。</p><p>我们拥有一支高效、专业的临床执行团队，具备完善的SOP、临床试验管理系统、受试者管理系统。</p><p>可提供医疗器械临床研究方案设计、中心筛选、试验监查、第三方核查、CRC派遣、数据管理、统计分析、定制式临床辅导、临床研究培训等服务。</p><p>公司临床研究业务发展迅猛，于2018年在苏州成立提供独立CRC派遣的公司。</p>"
-    }, {
+    },
+    {
         "title": "临床试验服务项目",
         "image": ["images/consultation_2.png"]
     }, {
@@ -60,8 +61,12 @@
         "title": "临床试验—部分案例",
         "image": ["images/consultation_4.png"]
     }, {
-        "title": "合作客户与医院",
-        "image": ["images/consultation_5.png", "images/consultation_6.png"]
+        "title": "合作客户",
+        "image": ["images/consultation_5.png"]
+    },
+    {
+        "title": "合作医院",
+        "image": ["images/consultation_6.png"]
     }],
     "teamResources": [{
         "title": "团队资源",
@@ -69,7 +74,76 @@
         "content": "<p>科琅法规部临床中心：专注于医疗器械临床研究领域，总部位于广东·广州，在苏州、北京、杭州、深圳均设有办事处。</p><p>我们拥有一支高效、专业的临床执行团队，具备完善的SOP、临床试验管理系统、受试者管理系统。</p><p>可提供医疗器械临床研究方案设计、中心筛选、试验监查、第三方核查、CRC派遣、数据管理、统计分析、定制式临床辅导、临床研究培训等服务。</p><p>公司临床研究业务发展迅猛，于2018年在苏州成立提供独立CRC派遣的公司。</p>"
     }, {
         "title": "团队介绍",
-        "image": ["images/teamResources_2.png", "images/teamResources_3.png", "images/teamResources_4.png"]
+        "persons": [
+            {
+                "person": [
+                    {
+                        "image": "images/person_01.png",
+                        "name": "宓庆宁",
+                        "job": "总经理",
+                        "describe": "广东药学会制药工程专业委员会秘书长、广州开发区生物岛管委会顾问",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>15年医疗卫生行业经验，参与组织了中国甲状腺疾病诊疗指南的编撰、发布及培训工作， 设计并参与实施了中国十大城市甲状腺疾病流行病学调查项目，擅长医疗器械市场策略的制订与执行落实。具备多年生物医药领域经验，熟悉生物医药、医疗器械领域的国内外技术趋势及现状。</p>"
+                    }
+                ]
+            },
+            {
+                "person": [
+                    {
+                        "image": "images/person_02.png",
+                        "name": "苏朝芬",
+                        "job": "副总经理、科转部总监",
+                        "describe": "中国药大学士、暨大医学硕士、中山大学MBA",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>从事政策咨询和科研转化工作,带领团队深入企业，从企业公司架构，战略规划，团队、业务产品构建等运营角度，为企业制定实际解决方案，直接服务企业超过百家，辅导企业实际获得的政策红利总计超过1亿。</p>"
+                    },
+                    {
+                        "image": "images/person_03.png",
+                        "name": "邬思华",
+                        "job": "法规部总监",
+                        "describe": "华南理工大学MBA、国家注册审核员",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>20年的医疗器械法规工作经验，熟悉国内、国外欧盟美国的医疗器械注册、临床和质量体系法规要求和实际操作实践。擅长优化产品研发与市场准入的协同推进，从而缩短上市周期。</p>"
+                    },
+                    {
+                        "image": "images/person_04.png",
+                        "name": "周 克",
+                        "job": "临床运营总监",
+                        "describe": "沈药学士,国家注册审核员,认证PMP",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>8年器械CRO工作经验，擅长策划器械上市整体解决方案、器械临床试验管理。</p>"
+                    }
+                ]
+            },
+            {
+                "person": [
+                    {
+                        "image": "images/person_05.png",
+                        "name": "李志光",
+                        "job": "注册总监",
+                        "describe": "国家注册审核员",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>15年医疗器械法规、体系辅导经验，熟悉医疗器械注册、GMP及化妆品、消字号法规要求及实际操作。</p>"
+                    },
+                    {
+                        "image": "images/person_06.png",
+                        "name": "梁庭玮",
+                        "job": "科转部副总监",
+                        "describe": "曾供职于政府部门",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>擅长为企业量身制定政府项目申报、科技项目管理、企业研发资源合理整合与分配等方案。</p>"
+                    },
+                    {
+                        "image": "images/person_07.png",
+                        "name": "杨彬杰",
+                        "job": "项目经理",
+                        "describe": "华农大药学硕士",
+                        "showDetail": false,
+                        "detail": "<p class='detail-more'>多年政府政策研究于科技项目申报经验。擅长于企业整体项目申报策划。</p>"
+                    }
+                ]
+            }
+        ]
     }],
     "contactUs": [{
         "title": "联系我们",

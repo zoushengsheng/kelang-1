@@ -14,7 +14,7 @@
 <script>
 // import axios from 'axios'
 import signature from '../../components/signature.vue'
-import PDFJS from 'pdfjs-dist/build/pdf'
+// import PDFJS from 'pdfjs-dist/build/pdf'
 // import formItem from './form-item.vue'
 
 export default {
@@ -32,19 +32,19 @@ export default {
     //   .get('./config/questions.json')
     //   .then(response => (this.datas = response.data))
     var input = document.getElementById('input');
-    function picToBlob () {
-      PDFJS.getPdf(input.files[0], function getPdfHelloWorld(data) {
-        var pdf = new PDFJS.PDFDoc(data);
-        var page = pdf.getPage(1);
-        var scale = 1.5;
-        var canvas = document.getElementById('canvas');
-        var context = canvas.getContext('2d');
-        canvas.height = page.height * scale;
-        canvas.width = page.width * scale;
-        page.startRendering(context);
-      });
-    }
-    input.addEventListener('change', picToBlob, false);
+    // function picToBlob () {
+    //   PDFJS.getPdf(input.files[0], function getPdfHelloWorld(data) {
+    //     var pdf = new PDFJS.PDFDoc(data);
+    //     var page = pdf.getPage(1);
+    //     var scale = 1.5;
+    //     var canvas = document.getElementById('canvas');
+    //     var context = canvas.getContext('2d');
+    //     canvas.height = page.height * scale;
+    //     canvas.width = page.width * scale;
+    //     page.startRendering(context);
+    //   });
+    // }
+    // input.addEventListener('change', picToBlob, false);
   },
   methods: {
     onSubmit () {}
